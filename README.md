@@ -3,7 +3,7 @@
 
 详细的代码解释都写在了个人的blog里
 
-可以在http://blowhail.cn中的games101标签中查看(
+可以在http://blowhail.cn 中的games101标签中查看(
 
  
 
