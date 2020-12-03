@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Work0.dir/Work0.cpp.o  -o Work0 
